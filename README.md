@@ -3,7 +3,7 @@
 
 ## Attribution
 
-This project uses concepts and example structures inspired by:
+Some of the content uses concepts and example structures inspired by:
 
 - Al Sweigart, *Automate the Boring Stuff with Python*  
   Licensed under CC BY-NC-SA 4.0  
