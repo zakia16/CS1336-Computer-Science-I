@@ -16,3 +16,7 @@ Some of the content uses concepts and example structures inspired by:
 - Allen B. Downey, *Think Python*  
   Code examples licensed under MIT License; text licensed under CC BY-NC-SA 4.0  
   https://allendowney.github.io/ThinkPython/
+
+
+- https://github.com/Pankaj-Str/Complete-Python-Mastery/tree/main/06%20Day%20If%20Else
+- 
