@@ -1,7 +1,7 @@
 # CS1336-Computer-Science-I
 
 Hearing my students constantly struggle with the high cost of zBooks got me thinking: why not just build an alternative myself?
-After a year of development, the results have been incredibly rewarding, and I have seen a dramatic positive shift in my student feedback. I am happy to share that this resource is now 
+I am happy to share that this resource is now 
 I’ve officially made it open-source so other educators and students can benefit. Please feel free to use and share it!
 
 
@@ -19,4 +19,3 @@ Some of the content uses concepts and example structures inspired by:
 
 
 - https://github.com/Pankaj-Str/Complete-Python-Mastery/tree/main/06%20Day%20If%20Else
-- 
